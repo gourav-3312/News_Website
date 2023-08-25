@@ -3,7 +3,7 @@ let apiKey = "14c2621687a749118feb1fe15d51ed8a";
 
 let newsAccordion = document.getElementById("newsAccordion");
 
-// creating an ajax get request
+// creating an ajax get request 
 const xhr = new XMLHttpRequest();
 xhr.open(
   "GET",
